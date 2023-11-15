@@ -1,4 +1,4 @@
-package com.naafa;
+package com.robotncom.naafa;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.naafa"
+    namespace "com.robotncom.naafa"
     defaultConfig {
-        applicationId "com.naafa"
+        applicationId "com.robotncom.naafa"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package com.naafa;
+package com.robotncom.naafa;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
